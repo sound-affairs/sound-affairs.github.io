@@ -1,5 +1,9 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+# Hoessein Alloul
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Houssine Alloul is an Assistant Professor of Modern Global History at the University of Amsterdam. He specializes in international history with a focus on Modern Europe and the Late Ottoman Empire.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+He is currently working on a monograph, tentatively entitled The Business of Diplomacy: The Ottoman Empire and Belgium in the Age of Capital. The book retraces the extensive but forgotten histories of intense interaction between the Kingdom of Belgium and the Ottoman Empire, from the 1800s up to 1923. It looks in particular at how small power diplomacy, the global circulation of capital, and transnational sociabilities interlaced. (For a recent interview on this book project, see here.)
+
+His latest research project, funded by NWO, is a comparative cultural and social history of Ottoman resident envoys in Europe in the period 1834-1914. Paying specific attention to the ways in which these multireligious diplomats (and their families) sustained their social network and sought to integrate themselves in local elite milieus, the project revisits conventional historical narratives of the development of ‘European’ diplomacy (as practice, culture, and institution) at a time of Western colonial expansion and increasing military and technological dominance.
+
+Prior to coming to UvA, he was an FWO visiting fellow at Boğaziçi University, a Fulbright visiting scholar at Columbia University, and a junior research fellow at the Leibniz Institute of European History in Mainz. He obtained his PhD in History from the University of Antwerp and did undergraduate work at the Università Ca’ Foscari in Venice.
