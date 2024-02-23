@@ -98,7 +98,6 @@ Submissions should be sent to <a href="mailto:soundaffairs-fgw@uva.nl">soundaffa
       {% assign read_time = post.feed_content | strip_html | number_of_words | divided_by: 180 | plus: 1 %}
     {% endif %}
     {% assign year = post.date | date: "%Y" %}
-    {% assign author = post.meta | join: "" %}
     {% assign tags = post.tags | join: "" %}
     {% assign categories = post.categories | join: "" %}
 
