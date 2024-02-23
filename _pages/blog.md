@@ -32,9 +32,9 @@ pagination:
 
 The Sound Affairs Blog publishes essays on aspects relating to sonic history. These can include previews of ongoing research, case-studies, book reviews, or more experimental formats of writing. We especially encourage submissions that explore the intersections between sound studies, diplomacy, and digital history.
  
-If you are interested in contributing a piece, please consult the authors guidelines (found below)
+If you are interested in contributing a piece, please consult the <a href="/assets/pdf/Author%20Guidelines%20-%20Sound%20Affairs%20blog.pdf">author guidelines</a>.
  
-Submissions should be sent to XXXX.
+Submissions should be sent to <a href="mailto:soundaffairs-fgw@uva.nl">soundaffairs-fgw@uva.nl</a>.
 
 
 {% assign featured_posts = site.posts | where: "featured", "true" %}
@@ -98,6 +98,7 @@ Submissions should be sent to XXXX.
       {% assign read_time = post.feed_content | strip_html | number_of_words | divided_by: 180 | plus: 1 %}
     {% endif %}
     {% assign year = post.date | date: "%Y" %}
+    {% assign author = post.meta | join: "" %}
     {% assign tags = post.tags | join: "" %}
     {% assign categories = post.categories | join: "" %}
 
@@ -123,6 +124,7 @@ Submissions should be sent to XXXX.
       <p>{{ post.description }}</p>
       <p class="post-meta">
         {{ read_time }} min read &nbsp; &middot; &nbsp;
+        {{ post.author}} &nbsp; &middot; &nbsp;
         {{ post.date | date: '%B %d, %Y' }}
         {% if post.external_source %}
         &nbsp; &middot; &nbsp; {{ post.external_source }}
