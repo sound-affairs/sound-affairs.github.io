@@ -107,6 +107,15 @@ related_blog_posts:
 # Collections
 # -----------------------------------------------------------------------------
 
+collections:
+  news:
+    defaults:
+      layout: post
+    output: true
+    permalink: /news/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
 
 announcements:
   enabled: true
@@ -117,6 +126,8 @@ latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
+
+
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
