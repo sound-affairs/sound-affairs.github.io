@@ -102,7 +102,7 @@ Rancière, Jacques. _The Politics of Aesthetics: The Distribution of the Sensibl
 
 Rigney, Ann. “Divided Pasts: A Premature Memorial and the Dynamics of Collective Remembrance.” _Memory Studies_ 1, nr. 1 (2008): 89–97. 
 
-———. T_he Afterlives of Walter Scott: Memory on the Move_. Oxford; New York: Oxford University Press, 2012.
+———. _The Afterlives of Walter Scott: Memory on the Move_. Oxford; New York: Oxford University Press, 2012.
 
 Rothberg, Michael. _Multidirectional Memory: Remembering the Holocaust in the Age of Decolonization_. Stanford: Stanford University Press, 2006.
 
