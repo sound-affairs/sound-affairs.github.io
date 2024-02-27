@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Sonic Monuments: Towards Inclusive and Dynamic Memoryscapes
-
 date: 2024-02-08 16:40:16
 description: This essay rethinks the traditional study of monuments by adding a sonic dimension.
 tags: monuments, memory-studies
