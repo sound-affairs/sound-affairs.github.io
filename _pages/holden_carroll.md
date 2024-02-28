@@ -1,2 +1,3 @@
 # Holden Carroll
 
+I’m a PhD candidate at UvA’s Amsterdam School of Historical Studies, having embarked in February 2024 on the 'Sonic Histories of Foreign Relations' project. Prior to this appointment, I obtained an MPhil in Politics and International Studies from the University of Cambridge, and a BA in Political Science from Montréal’s Concordia University. I am interested in critical histories of the international system and new frontiers of enquiry in international studies.
