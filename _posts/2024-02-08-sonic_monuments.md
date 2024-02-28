@@ -11,7 +11,7 @@ author: Laura Tacoma
 
 
 “MONUMENT noun [ C ] / mɒn.jə.mənt. A structure or building that is built to honor a special person or event: in the square in front of the hotel stands a monument to all the people killed in the war.” 
-            Cambridge English Dictionary, ‘monument.’
+                                                _Cambridge English Dictionary_, ‘monument.’
 
 
 
@@ -89,7 +89,7 @@ ____, “An Exclusive Interview with Artist Katriona Beales.” Sotheby’s Inst
 
 Bijsterveld, Karin, and Jose Van Dijck, eds. _Sound Souvenirs: Audio Technologies, Memory and Cultural Practices_. Amsterdam: Amsterdam University Press, 2019.
 
-Brown, Steven D. “Two Minutes of Silence: Social Technologies of Public Commemoration.” _Theory & Psychology _22, nr. 2 (2012): 234–52.
+Brown, Steven D. “Two Minutes of Silence: Social Technologies of Public Commemoration.” _Theory & Psychology_ 22, nr. 2 (2012): 234–52.
 
 Haijtema, Arno. “Op standbeelden als dat van J.P. Coen Klonk van meet af aan kritiek. Wat te doen nu die weer aanzwelt?” _De Volkskrant_. March 7, 2023. https://www.volkskrant.nl/cultuur-media/op-standbeelden-als-dat-van-j-p-coen-klonk-van-meet-af-aan-kritiek-wat-te-doen-nu-die-weer-aanzwelt~ba39ef7b/.
 
@@ -111,5 +111,5 @@ Sterne, Jonathan. _The Sound Studies Reader_. London: Routledge, 2012.
 
 Street, Seán. _The Memory of Sound: Preserving the Sonic Past_. London: Taylor and Francis, 2014.
 
-Young, James E. “From ‘at Memory’s Edge: After-Images of the Holocaust in Contemporary Art and Architecture.” In T_he Collective Memory Reader_, edited by Jeffrey K Olick, Vered Vinitzky-Seroussi, and Daniel Levy, Oxford: Oxford University Press, 2011 [2000], 371–74.
+Young, James E. “From ‘at Memory’s Edge: After-Images of the Holocaust in Contemporary Art and Architecture.” In _The Collective Memory Reader_, edited by Jeffrey K Olick, Vered Vinitzky-Seroussi, and Daniel Levy, Oxford: Oxford University Press, 2011 [2000], 371–74.
 
