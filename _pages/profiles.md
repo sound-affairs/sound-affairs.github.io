@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: People
-description: members of the lab or group
+description: project members
 nav: true
 nav_order: 7
 
@@ -16,7 +16,7 @@ profiles:
     more_info: >
 
   - align: left
-    image: prof_pic.jpg
+    image: holden.png
     content: holden_carroll.md
     image_circular: false # crops the image to make it circular
     more_info: >
