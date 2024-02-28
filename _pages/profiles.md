@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
+title: People
 description: members of the lab or group
 nav: true
 nav_order: 7
@@ -20,7 +20,7 @@ profiles:
     content: holden_carroll.md
     image_circular: false # crops the image to make it circular
     more_info: >
-    
+
   - align: right
     image: josephine.jpg
     content: josephine_hoegaerts.md

@@ -6,4 +6,4 @@ inline: false
 related_posts: false
 ---
 
-On Feb 1, 2024, Holden Carroll has joined our project as a Ph.D. candidate. We are very happy that he has joined our team and looking forward to collaborating with him.
+On Feb 1, 2024, Holden Carroll has joined our project as a Ph.D. candidate. He joins us from Cambridge, where he recently completed a RMa in International History. The coming four years he will be working on a doctoral project that will explored the largely untapped UN radio archives. We are very happy that he has joined our team and looking forward to collaborating with him. 
