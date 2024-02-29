@@ -1,3 +1,3 @@
-# Hoessein Alloul
+# Houssine Alloul
 
 I am an Assistant Professor of Modern Global History at the University of Amsterdam. My research deals mainly with the cultural and social history of prewar diplomacy, in particular with class power and the state/finance nexus. Other research interests include popular Orientalism and Western travel in the eastern Medditerranean. At present, I am completing a book on the history of Belgian-Ottoman relations. I have also embarked on a new research project on the peripatetic lives of late Ottoman resident envoys in Europe. My previous publications can be accessed [here](https://uva.academia.edu/HoussineAlloul). 
