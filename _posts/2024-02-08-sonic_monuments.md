@@ -35,7 +35,7 @@ Robert Musil famously wrote that ‘nothing is so invisible as a monument’ (19
 <figure>
     <img src="/assets/img/LT_1.jpeg" width=200
          alt="Visitors engaging with Fallen Leaves">
-    <figcaption> Fig. 1: Visitors engaging with _Fallen Leaves_ by Menashe Kadishman. Photograph: Murdo MacLeod (2015) <a href="https://www.theguardian.com/artanddesign/2015/may/15/menashe-kadishman-obituary"> <br> Source</a></figcaption>
+    <figcaption style="font-size: 0.8em;"> Fig. 1: Visitors engaging with <i>Fallen Leaves</i> by Menashe Kadishman. Photograph: Murdo MacLeod (2015). <a href="https://www.theguardian.com/artanddesign/2015/may/15/menashe-kadishman-obituary">Source</a></figcaption>
 </figure>
 
 
@@ -55,7 +55,7 @@ A monument is always a product of its time. Monuments should not fall, but they 
 <figure>
     <img src="/assets/img/LT_2.jpeg" width=300
          alt="">
-    <figcaption> Fig. 2: Visitors preparing their message for Katriona Beales' _Hope as an Act of Resistance_. Picture: Sotheby's Institute of Art. (2023) <a href="https://www.sothebysinstitute.com/news-and-events/news/an-exclusive-interview-with-artist-katriona-beales"> <br> Source</a></figcaption>
+    <figcaption style="font-size: 0.8em;"> Fig. 2: Visitors preparing their message for Katriona Beales' <i>Hope as an Act of Resistance</i>. Picture: Sotheby's Institute of Art. (2023). <a href="https://www.sothebysinstitute.com/news-and-events/news/an-exclusive-interview-with-artist-katriona-beales">Source</a></figcaption>
 </figure>
 
 The first steps towards a sonic monument have already been made. In September 2023, Katriona Beales’ work _Hope as an Act of Resistance: A Sonic Monument_ was exhibited at the Victoria and Albert Museum in London. The countermonument, commissioned by the Sotheby’s Institute of Art as part of the MA course ‘Reimagining the Monument’, consists of a sound artwork composed of people’s whispered hopes. Visitors can record their messages anonymously and are then invited to the ‘sound bath,’ a room where the visitor can listen to the whispered dreams and messages of hope. Beales stated in an interview with the Sotheby Institute that she wanted her work to reject the traditional idea of monuments as commemorating violence, but, instead, sought to create a monument that would be ‘soft, gentle, and hold people’ (2023). As Beales implicitly admits, her work does not directly commemorate anything, which makes its status as a monument debatable. However, it still prompts reflection on what monuments entail and what a sonic monument could look like. 
@@ -63,7 +63,7 @@ The first steps towards a sonic monument have already been made. In September 20
 <figure>
     <img src="/assets/img/LT_3.png" width=300
          alt="">
-    <figcaption> Fig. 3: ‘A Sonic Monument,’ generated with midjourney.ai Image Generator, December 2023.</figcaption>
+    <figcaption style="font-size: 0.8em;"> Fig. 3: ‘A Sonic Monument,’ generated with midjourney.ai Image Generator, December 2023.</figcaption>
 </figure>
 
 
