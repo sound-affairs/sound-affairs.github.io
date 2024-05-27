@@ -18,3 +18,9 @@ $max-content-width: {{ site.max_width }};
   "font-awesome/solid",
   "font-awesome/regular"
 ;
+
+.footer-logo {
+  display: block;  /* Ensures the logo is on a new line */
+  margin: 10px auto;  /* Centers the logo and adds vertical spacing */
+  height: 50px;  /* Adjust this value as needed to fit your design */
+}
