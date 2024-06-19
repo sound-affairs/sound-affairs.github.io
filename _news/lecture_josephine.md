@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Talk Josephine Hoegaerts “On becoming dysfluent. Stammering, Suffering and Complaint in the 19th century”, June 4
-date: 2024-02-01 16:11:00-0400
+date: 2024-05-01 16:11:00-0400
 inline: false
 related_posts: false
 ---
