@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Talk Josephine Hoegaerts on the history of the voiceprint, July 17. 
-date: 2024-07-08 16:11:00-0400
+date: 2024-07-07 16:11:00-0400
 inline: false
 related_posts: false
 ---
