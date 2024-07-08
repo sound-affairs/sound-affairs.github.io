@@ -3,7 +3,7 @@ layout: post
 title: “Easy as ABC” – Approaching the ‘Modern Sound’ in UNESCO Radio
 date: 2024-07-02 09:00:00
 description: 
-tags: unesco radio sonic-history
+tags: unesco, radio, sonic-history
 categories: blog
 author: Holden Carroll
 ---
@@ -18,7 +18,7 @@ The planners of the United Nations (UN) were acutely concerned with how the new 
 <figure>
     <img src="/assets/img/ABC1_2.png" width=900
          alt="Popular Science article">
-    <figcaption style="font-size: 0.8em;"> Spread from a Popular Science (September 1948 issue) article “Wiring the UN for World Listening.” [^7] </figcaption>
+    <figcaption style="font-size: 0.8em;"> Spread from a Popular Science (September 1948 issue) article “Wiring the UN for World Listening.”<span markdown="1">[^7]</span> </figcaption>
 </figure>
 
 
@@ -34,10 +34,8 @@ In the late 1950s, UNESCO (the United Nations Educational, Scientific and Cultur
 <figure>
     <img src="/assets/img/ABC2.png" width=700
          alt="Script">
-    <figcaption style="font-size: 0.8em;"> _Excerpt from cover page of UNESCO Radio’s script for “Easy as ABC – Programme ‘B.’” </figcaption>
+    <figcaption style="font-size: 0.8em;"> Excerpt from cover page of UNESCO Radio’s script for “Easy as ABC – Programme ‘B.’” <span markdown="1">[^2]</span></figcaption>
 </figure>
-
-[^23]
 
 After a preamble that establishes the series’ lighthearted tone with a full-length theme song in a swing jazz style, narrators ‘Alpha’ and ‘Beta’ invite Hollywood actors Myrna Loy, Dinah Shore, and Edward G. Robinson to help explain “why B is for BARGAINS.”[^24]  They approach this hook by playing four short “recordings” of the sounds of women “hunting for a bargain”[^25]  during “bargain days” in four Western metropoles (Paris, Rome, London, and New York).[^26]  With the exception of Rome, these are all locations where this radio series was produced.[^27]  Probably best characterized as scripted skits with added background recordings, each of these short interspersions presents an auditory vignette that transports the listener to a starkly different soundscape from the relatively unadorned, “dead”[^28]  sonic character of the radio studio: instead, a loud panoply of sounds characterizes all of these audio-visits. 
 
@@ -48,10 +46,8 @@ Back in the studio after a beat, our narrators use these snippets to recall the 
 <figure>
     <img src="/assets/img/ABC3.png" width=700
          alt="Script_detail">
-    <figcaption style="font-size: 0.8em;"> Dialogue from “B is for Bargains” script. </figcaption>
+    <figcaption style="font-size: 0.8em;"> Dialogue from “B is for Bargains” script.<span markdown="1">[^31]</span></figcaption>
 </figure>
-
-[^31]
 
 With this innate know-how invoked, the narrators start a “demonstration in Bargains and Merchandise” where they play another set of “recordings and sound effects”[^32]  before explaining each in turn. This sound-identification game directs the listener’s engaged attention[^33]  to the explanation for a non-specialist, potentially skeptical public[^34] that UNESCO’s transnational deployments of experts have been cost-effective. The productivity of UNESCO initiatives is presented as something that can be simply *heard* by listening to the new sounds that have been introduced by the organization in places where there were previously none, leaving local soundscapes around the world positively transformed in the wake of (often Western) technical expertise. In one passage, Robinson characterizes UNESCO’s Arid Zone Program as “a scientific battle to stop the deserts from growing larger, to make *this sound* heard everywhere,”[^35]  as a recording of rain and thunder fades in behind his voice.
 
@@ -73,10 +69,8 @@ This is a brief example of the type of analysis that can be done here, albeit on
 <figure>
     <img src="/assets/img/ABC5.png" width=500
          alt="UNESCO Courier">
-    <figcaption style="font-size: 0.8em;"> Notably, the UNESCO Courier published several articles that covered such science and technology driven approaches to noise and acoustic control, including this July 1967 issue (cover pictured). </figcaption>
+    <figcaption style="font-size: 0.8em;"> Notably, the UNESCO Courier published several articles that covered such science and technology driven approaches to noise and acoustic control, including this July 1967 issue (cover pictured).<span markdown="1">[^45]</span> </figcaption>
 </figure>
-
-[^45]
 
 The ‘modern sound’ thus favors those signals that are “clear and direct.”[^46] The UN Headquarters’ planning documentation reflects this standard well: for example, the Secretary-General's 1947 report notes that “acoustic treatment [in the Headquarter's planned broadcasting studios\] will be considerable since they must be very ‘dead’”[^47]––meaning they exhibit the total dampening of undesirable room echo. Thompson argues that the modern sonic ideal “signaled the power of human ingenuity over the physical environment” through its upholding of a ‘pure’ sound signature facilitated by advancements in science and technology, and the historically contingent accumulation of expertise and best practices.[^48] The UN’s sustained use of these techniques of noise-limitation and signal clarity––across its architecture, audio circulation technologies, and indeed within its radio broadcasts––accordingly parallels the international organization’s comprehensive championing of scientific expertise across all areas of its administration, a tendency of that Jens Steffek has described as “technocratic-utopian.”[^49] All of the sounds of UNESCO’s work depicted in “B is for Bargains” exemplify the modern sound through their discreteness: each depicts one or two clearly identifiable, hi-fi sound sources not masked by spatial echoes or environmental sounds. In a recording of birdsong that is supposed to represent new “trees in the \[Iraq\] desert” grown following the initiative of “one expert from the UN’s Food and Agriculture Agency,”[^50] we don’t hear much of anything but a dry, close-mic recording of birds. With all the sound-mixing facilities of the radio studio, capable of concocting such sonic flurries as in the ‘bargain day’ recordings, a richly choreographed and complex soundscape was certainly possible. However, this was eschewed for the ‘UNESCO-sounds’ in this episode. 
   
