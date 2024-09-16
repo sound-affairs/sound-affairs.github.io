@@ -31,25 +31,24 @@ __If you want to attend the workshop, please register [here](https://forms.gle/W
 
 ##### Paper Presentations
 
-<div class="row">
+<div class="row mt-3">
   <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid loading="eager" path="assets/img/logo-sound-affairs.jpg" title="Picture of Loren Verreyen" class="img-fluid rounded z-depth-1" %}
-    <div class="caption">
+    <div class="caption text-center">
       Loren Verreyen (University of Antwerp) - Picking the Apple Tree: Analyzing Podcasts from Genre to Transcript <br> Discussant: Carolyn Birdsall (University of Amsterdam)
     </div>
   </div>
   <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid loading="eager" path="assets/img/pic_emilyclark.jpg" title="Picture of Emily Clark" class="img-fluid rounded z-depth-1" %}
-    <div class="caption">
+    <div class="caption text-center">
       Emily Clark (University of Amsterdam) - Listening to Difference: Dutch Folksong Recordings as Archival Documents and Data <br> Discussant: Rebekah Ahrendt (Utrecht University)
     </div>
   </div>
   <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid loading="eager" path="assets/img/holden.png" title="Picture of Holden Carroll" class="img-fluid rounded z-depth-1" %}
-    <div class="caption">
-      Holden Carroll (University of Amsterdam)  - Soundscapes for Peace and Understanding: UNESCO Radio and the Sonic Practices of Postwar Internationalism <br> Discussant: Holger Schulze (University of Copenhagen)
+    <div class="caption text-center">
+      Holden Carroll (University of Amsterdam) - Soundscapes for Peace and Understanding: UNESCO Radio and the Sonic Practices of Postwar Internationalism <br> Discussant: Holger Schulze (University of Copenhagen)
     </div>
   </div>
 </div>
-
 

@@ -48,12 +48,15 @@ PublicaBons: Sonic FicBon (2021), The Bloomsbury Handbook of the Anthropology of
 
 <div class="row justify-content-center">
   <div class="col-sm-8 col-md-6 mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/hs.jpg" title="Holger Schulze" class="img-fluid rounded z-depth-1" style="max-width: 100px; width: 35%;" %}
+    <div class="text-center">
+      {% include figure.liquid loading="eager" path="assets/img/hs.jpg" title="Holger Schulze" class="img-fluid rounded z-depth-1" style="max-width: 100px; width: 35%; display: inline-block;" %}
+    </div>
+    <div class="caption text-center">
+      Holger Schulze. Picture taken by Ralf Hiemisch.
+    </div>
   </div>
 </div>
-<div class="caption text-center">
-  Holger Schulze. Picture taken by Ralf Hiemisch.
-</div>
+
 
 
 
