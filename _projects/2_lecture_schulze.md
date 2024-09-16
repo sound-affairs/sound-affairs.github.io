@@ -22,9 +22,9 @@ After the inaugural workshop, there will be a public lecture by [Professor Holge
 #### Abstract
 __What Are Sound Studies?: A Brief Introduction to a Very Young and a Very Old Field of Research__ <br>
 Sound Studies is a very young and diverse field of research with a long prehistory. Since at least
-the 1970s, arBsts and scholars have been proposing ways to understand contemporary and
-historical modes of listening, the emergence of new listening devices, and how communiBes
-gather around sound experiences. This talk will provide a basic introducBon to the more recent
+the 1970s, artists and scholars have been proposing ways to understand contemporary and
+historical modes of listening, the emergence of new listening devices, and how communities
+gather around sound experiences. This talk will provide a basic introduction to the more recent
 history of the field since 2004. It will also look at current developments in the 2020s to
 decolonize sound studies and investigate aural diversity. Finally, the talk will focus on examples
 of vernacular media culture that document how the cultural study of sound allows us to
@@ -35,13 +35,13 @@ interpret life and culture - in the present, in history, and in the future.
 
 #### Biography
 Holger Schulze is full professor in musicology at the University of Copenhagen and principal
-invesBgator at the Sound Studies Lab. His research moves between a cultural history of the
-senses, sound in popular culture and the anthropology of media. He was visiBng professor at
+investigator at the Sound Studies Lab. His research moves between a cultural history of the
+senses, sound in popular culture and the anthropology of media. He was visiting professor at
 the Musashino Art University Tokyo, at the University of New South Wales Sydney, and the
 Humboldt-Universität zu Berlin. Currently he works on The Bloomsbury Encyclopedia of Sound
 Studies (with Jennifer Stoever and Michael Bull) and on the Bloomsbury Handbook of Sound in
 Museums (with Alcina Cortez, Eric de Visscher and Gabriele Rossi Rognoni). Selected
-PublicaBons: Sonic FicBon (2021), The Bloomsbury Handbook of the Anthropology of Sound
+Publications: Sonic Fiction (2021), The Bloomsbury Handbook of the Anthropology of Sound
 (2021, ed.), The Sonic Persona (2018), Sound as Popular Culture (2016, co-ed.).
 
 
