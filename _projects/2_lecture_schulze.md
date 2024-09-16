@@ -26,7 +26,7 @@ the 1970s, arBsts and scholars have been proposing ways to understand contempora
 historical modes of listening, the emergence of new listening devices, and how communiBes
 gather around sound experiences. This talk will provide a basic introducBon to the more recent
 history of the field since 2004. It will also look at current developments in the 2020s to
-decolonize sound studies and invesBgate aural diversity. Finally, the talk will focus on examples
+decolonize sound studies and investigate aural diversity. Finally, the talk will focus on examples
 of vernacular media culture that document how the cultural study of sound allows us to
 interpret life and culture - in the present, in history, and in the future.
 
