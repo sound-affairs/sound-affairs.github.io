@@ -33,7 +33,7 @@ __If you want to attend the workshop, please register [here](https://forms.gle/W
 
 <div class="row mt-3">
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/logo-sound-affairs.jpg" title="Picture of Loren Verreyen" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/Foto_Loren.jpeg" title="Picture of Loren Verreyen" class="img-fluid rounded z-depth-1" %}
     <div class="caption text-center">
       Loren Verreyen (University of Antwerp) - Picking the Apple Tree: Analyzing Podcasts from Genre to Transcript <br> Discussant: Carolyn Birdsall (University of Amsterdam)
     </div>
