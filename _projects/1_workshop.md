@@ -23,10 +23,13 @@ __Venue__: [VOX-POP](https://voxpop.uva.nl/en), BG 3, Binnengasthuisstraat 9, Am
 - 13:30 - 15:30 **Digital Methods Workshop**: Participate in an interactive workshop exploring the possibilities and limitations of digital techniques for researching and presenting sonic aspects of history. 
 - 15:30 - 15:45 **Concluding Remarks**
 
-After the workshop, there will be a public lecture by Holger Schulze at Spui25.
-
-
 __If you want to attend the workshop, please register [here](https://forms.gle/WdLrcdKARtfKNdZF9).__
+
+
+
+After the workshop, there will be a public lecture by Holger Schulze at Spui25. If you want to attend this lecture, you have to register separately at [Spui25](https://spui25.nl/programma/what-are-sound-studies)
+
+
 
 
 ##### Paper Presentations

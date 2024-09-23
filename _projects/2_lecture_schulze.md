@@ -10,11 +10,13 @@ related_publications: false
 
 
 
-After the inaugural workshop, there will be a public lecture by [Professor Holger Schulze](https://artsandculturalstudies.ku.dk/staff/?pure=en/persons/490235) and reception at [Spui 25](https://spui25.nl/). Professor [Josephine Hoegaerts](https://www.uva.nl/profiel/h/o/j.a.i.hoegaerts/j.a.i.hoegaerts.html) (UvA) will moderate the Q&A after the talk.
+After the inaugural workshop, there will be a public lecture by [Professor Holger Schulze](https://artsandculturalstudies.ku.dk/staff/?pure=en/persons/490235) and reception at [Spui 25](https://spui25.nl/programma/what-are-sound-studies). Professor [Josephine Hoegaerts](https://www.uva.nl/profiel/h/o/j.a.i.hoegaerts/j.a.i.hoegaerts.html) (UvA) will moderate the Q&A after the talk.
 
 <br>
 **Time**: 17:00 - 18:45 <br>
 **Location**: Spui 25, 1012 WX Amsterdam
+**Registration**: https://spui25.nl/programma/what-are-sound-studies
+
 
 <br>
 
