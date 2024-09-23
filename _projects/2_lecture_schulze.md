@@ -14,8 +14,8 @@ After the inaugural workshop, there will be a public lecture by [Professor Holge
 
 <br>
 **Time**: 17:00 - 18:45 <br>
-**Location**: Spui 25, 1012 WX Amsterdam
-**Registration**: https://spui25.nl/programma/what-are-sound-studies
+**Location**: Spui 25, 1012 WX Amsterdam <br>
+**Registration**: [https://spui25.nl/programma/what-are-sound-studies](https://spui25.nl/programma/what-are-sound-studies)
 
 
 <br>
