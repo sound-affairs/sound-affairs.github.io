@@ -62,4 +62,7 @@ In fall 2027, Bloomsbury publishes my fifth monograph, this time the topic touch
 We recently held with the Sound Studies Lab the first international conference on ambient music in Copenhagen, and more publications on this topic are on the way as well. And together with a colleague from Berlin, Gerriet Sharma, we are working on the concept of Critical Immersion Studies.
 Lastly, all of this is probably tied together with the earliest stages of my work on a monograph about the concept and the practice and the effects of Sonic Critique.
 
+<hr>
+<br>
 
+*Sound Affairs' new interview series with scholars working in different fields and disciplines aims to cover the latest developments in Sound Studies. What drives sonic research today? Which questions are worth asking (again)? What have we missed? Which histories are being uncovered? And how does this research possibly impact society? These and other questions are discussed in different installments. Stay tuned for more!*
