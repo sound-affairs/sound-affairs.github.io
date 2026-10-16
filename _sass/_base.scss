@@ -60,6 +60,12 @@ img {
   max-width: 90vw;
 }
 
+// Interview questions: blockquote styling at normal text size
+blockquote.question {
+  font-size: 1rem;
+  padding: 0.5em 1em;
+}
+
 blockquote {
   background: var(--global-bg-color);
   border-left: 5px solid var(--global-theme-color);
