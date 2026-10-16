@@ -120,6 +120,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:title/
+  interviews:
+    output: true
+    permalink: /interviews/:title/
 
 announcements:
   enabled: true
@@ -168,6 +171,7 @@ exclude:
   - purgecss.config.js
   - README.md
   - vendor
+  - isableFastRender
 keep_files:
   - CNAME
   - .nojekyll
