@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Anette Hoffmann - Echo Travels (Public Lecture)
-description: December 10, 2026 at Spui25
+title: Anette Hoffmann - Echo Travels (Public Lecture), December 10, 20:00 @ SPUI25
+description: December 10, 20:00 @ SPUI25
 img: assets/img/echo_travels.webp
 importance: 1
 category: work
@@ -20,5 +20,7 @@ On December 10, we are organizing [a public lecture](https://spui25.nl/programma
 Historical voice recordings made with African speakers offer ways of listening to colonial histories. Echo Travels, an art project by Anette Hoffmann and Rosemary Lombard, re-introduces speakers whose voices were recorded in projects of colonial knowledge production. It facilitates listening in public spaces by re-assembling the speaker’s dispersed audio-visual archival traces, re-activating their photographic portraits, re-translating their spoken words and attending to historical context. To re-circulate these lesser-known takes on colonial history, the project creates mobile exhibition elements: lightly travelling, sounding posters accompanied by side texts.
 
 The lecture, which presents this work alongside two of these posters, will take place at SPUI25 and will be followed by a reception.
+
+**December 10, 20:00 @ SPUI25**
 
 You can sign up on the [SPUI25 event page](https://spui25.nl/programma/echo-travels-re-circulating-historical-voice-recordings-that-speak-of-colonial-history). For more information about the project, see [echo-travels.org](https://echo-travels.org/).
