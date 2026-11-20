@@ -8,7 +8,7 @@ category: work
 related_publications: false
 ---
 
-On December 10, we are organizing [a public lecture](https://spui25.nl/programma/echo-travels-re-circulating-historical-voice-recordings-that-speak-of-colonial-history) by Anette Hoffmann, entitled “Echo Travels: Re-Circulating Historical Voice Recordings That Speak of Colonial History.” It is the second installment of our lecture series “New Directions in Sonic History.”
+On December 10, we are presenting [a public lecture](https://spui25.nl/programma/echo-travels-re-circulating-historical-voice-recordings-that-speak-of-colonial-history) by Anette Hoffmann, entitled “Echo Travels: Re-Circulating Historical Voice Recordings That Speak of Colonial History.” It is the second installment of our lecture series “New Directions in Sonic History.”
 
 <figure style="text-align: center;">
     <div style="position: relative; display: inline-block;">
