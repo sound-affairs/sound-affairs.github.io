@@ -29,3 +29,8 @@ On December 10, we are presenting [a public lecture](https://spui25.nl/programma
 Historical voice recordings made with African speakers offer ways of listening to colonial histories. Echo Travels, an art project by Anette Hoffmann and Rosemary Lombard, re-introduces speakers whose voices were recorded in projects of colonial knowledge production. It facilitates listening in public spaces by re-assembling the speaker’s dispersed audio-visual archival traces, re-activating their photographic portraits, re-translating their spoken words and attending to historical context. To re-circulate these lesser-known takes on colonial history, the project creates mobile exhibition elements: lightly travelling, sounding posters accompanied by side texts.
 
 The lecture, which presents this work alongside two of these posters, will take place at SPUI25 and will be followed by a reception.
+
+<br>
+
+#### Biography
+Anette Hoffmann is an artist, curator and researcher. Her work engages with historical sound archives and audio-visual collections as sources of colonial history (see [anettehoffmann.com](https://anettehoffmann.com) and [echo-travels.org](https://echo-travels.org/)). Her recent books are Knowing by Ear: Listening to Voice Recordings with African Prisoners of War in German Camps (1915-1918) (Duke University Press, 2024) and Listening to Colonial History (BAB, 2023).
