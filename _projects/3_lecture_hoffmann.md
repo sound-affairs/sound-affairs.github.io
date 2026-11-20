@@ -8,7 +8,7 @@ category: work
 related_publications: false
 ---
 
-On December 10, Anette Hoffmann will give a public lecture entitled “Echo Travels: Re-Circulating Historical Voice Recordings That Speak of Colonial History,” followed by a reception at [Spui 25](https://spui25.nl/programma/echo-travels-re-circulating-historical-voice-recordings-that-speak-of-colonial-history). The lecture is the second in the lecture series “New Directions in Sonic History” and is part of our research project “Sound Affairs: Sonic Histories of Foreign Relations, 1700-1990.”
+On December 10, Anette Hoffmann will give a public lecture entitled “Echo Travels: Re-Circulating Historical Voice Recordings That Speak of Colonial History,” which presents the project alongside two of its sounding posters, followed by a reception at [Spui 25](https://spui25.nl/programma/echo-travels-re-circulating-historical-voice-recordings-that-speak-of-colonial-history). The lecture is the second in the lecture series “New Directions in Sonic History” and is part of our research project “Sound Affairs: Sonic Histories of Foreign Relations, 1700-1990.”
 
 <br>
 **Date**: December 10, 2026 <br>
@@ -19,7 +19,9 @@ On December 10, Anette Hoffmann will give a public lecture entitled “Echo Trav
 <br>
 
 #### About the project
-Historical voice recordings made with African speakers offer ways of listening to colonial histories. Echo Travels, an art project by Anette Hoffmann and Rosemary Lombard, re-introduces speakers whose voices were recorded in projects of colonial knowledge production. It facilitates listening in public spaces by re-assembling the speaker’s dispersed audio-visual archival traces, re-activating their photographic portraits, re-translating their spoken words and attending to historical context.
+Echo Travels is a transnational art project by Anette Hoffmann and Rosemary Lombard. It brings historically and politically significant voices held in colonial sound archives into public circulation. Through close listening, translation and research across dispersed collections, we reconnect recordings with photographs, biographies and historical contexts. Each recording is presented through a mobile sounding poster: a reactivated photograph, a sound piece accessed by QR code and an accompanying side text. These autonomous elements can travel individually or join other works in changing constellations.
+
+The project grows out of Anette Hoffmann’s long-term research into recordings from southern Africa and those made with African prisoners of war and civilian internees in Germany during the First World War. Many of these recordings were made as linguistic, ethnographic or musicological specimens by researchers who did not understand what the speakers were saying.
 
 <div class="text-center">
   <div style="position: relative; display: inline-block;">
