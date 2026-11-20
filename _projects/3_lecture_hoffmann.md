@@ -8,7 +8,7 @@ category: work
 related_publications: false
 ---
 
-On December 10, we are presenting [a public lecture](https://spui25.nl/programma/echo-travels-re-circulating-historical-voice-recordings-that-speak-of-colonial-history) by Anette Hoffmann, entitled “Echo Travels: Re-Circulating Historical Voice Recordings That Speak of Colonial History.” It is the second installment of our lecture series “New Directions in Sonic History.” Sound Affairs' PhD Candidate Holden Carroll will moderate the Q&A after the talk, which will be followed by a reception.
+On December 10, we are presenting [a public lecture](https://spui25.nl/programma/echo-travels-re-circulating-historical-voice-recordings-that-speak-of-colonial-history) by Anette Hoffmann, entitled “Echo Travels: Re-Circulating Historical Voice Recordings That Speak of Colonial History.” It is the second installment of our lecture series “New Directions in Sonic History.” Holden Carroll will moderate the Q&A after the talk, which will be followed by a reception.
 
 <br>
 **Time**: 20:00 <br>
