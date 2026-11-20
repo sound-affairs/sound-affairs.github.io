@@ -19,6 +19,7 @@ On December 10, we are presenting [a public lecture](https://spui25.nl/programma
         <img src="/assets/img/echo_travels.webp" width="300" alt="Painted portrait of a historical speaker with a blue headwrap and red bead necklaces, resting their chin on their hand" style="display: block;">
         <span style="position: absolute; left: 100%; bottom: 0; margin-left: 4px; writing-mode: vertical-rl; transform: rotate(180deg); font-size: 0.75rem; white-space: nowrap;">© Anette Hoffmann</span>
     </div>
+    <figcaption style="max-width: 300px; margin: 0.5rem auto 0; font-size: 0.85rem;"><em>Image appearing on the poster of <a href="https://echo-travels.org/adelheid-mbwaondjou">Adelheid Mbwaondjou</a>, one of the rare female voices, which appear as recordings in the colonial sound collections surveyed by Hoffmann.</em></figcaption>
 </figure>
 
 <br>
