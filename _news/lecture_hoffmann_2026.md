@@ -28,7 +28,5 @@ Historical voice recordings made with African speakers offer ways of listening t
 
 The lecture, which presents this work alongside two of these posters, will take place at SPUI25 and will be followed by a reception.
 
-<br>
-
 #### Biography
 Anette Hoffmann is an artist, curator and researcher. Her work engages with historical sound archives and audio-visual collections as sources of colonial history (see [anettehoffmann.com](https://anettehoffmann.com/) and [echo-travels.org](https://echo-travels.org/)). Her recent books are *Knowing by Ear: Listening to Voice Recordings with African Prisoners of War in German Camps (1915-1918)* (Duke University Press, 2024) and *Listening to Colonial History* (BAB, 2023).
