@@ -10,6 +10,7 @@ On December 10, we are organizing a public lecture by Anette Hoffmann, entitled 
 
 <figure>
     <img src="/assets/img/echo_travels.webp" width="300" alt="Painted portrait of a historical speaker with a blue headwrap and red bead necklaces, resting their chin on their hand" style="display: block; margin: auto;">
+    <figcaption class="caption" style="text-align: center;">Image: Anette Hoffmann</figcaption>
 </figure>
 
 Historical voice recordings made with African speakers offer ways of listening to colonial histories. Echo Travels, an art project by Anette Hoffmann and Rosemary Lombard, re-introduces speakers whose voices were recorded in projects of colonial knowledge production, by re-assembling their dispersed audio-visual archival traces and re-translating their spoken words.
